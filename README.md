@@ -1,7 +1,7 @@
 **Pour télécharger cliquer sur l'une des étiquettes ci-dessous**
 
-[![GitHub release](https://img.shields.io/github/v/release/Casimodo/rasp-ap.svg)](https://github.com/Casimodo/rasp-ap/releases)
-[![Github All Releases](https://img.shields.io/github/downloads/Casimodo/rasp-ap/total.svg)](https://github.com/Casimodo/rasp-ap/releases)
+[![GitHub release](https://img.shields.io/github/v/release/Casimodo/my-app.svg)](https://github.com/Casimodo/my-app/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/Casimodo/my-app/total.svg)](https://github.com/Casimodo/my-app/releases)
 
 
 # 🧩 Objectif
