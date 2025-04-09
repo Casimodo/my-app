@@ -1,12 +1,12 @@
 [
   {
     "username": "admin",
-    "password": "$2b$10$e.5hGzDhAbdfqlmUMqeGi.2O3FvAXUoAMt7oWYBd.XVt9zwEHRjTi",
+    "password": "$2b$10$3nJ916EvotcJFrXemfaaju/oJxePLcnOAhutrfErwuhpQQ4WWC9WK",
     "access": 99
   },
   {
     "username": "invite",
-    "password": "$2b$10$3/PXesFdTr6UvWjzklGrdu/zyPQUjGXpCnTPAuBObzDbU7nLO7gzi",
+    "password": "$2b$10$PPoRojM2t5/03XN/cYd/OuivGnNuUBXMLCbk49tIXigQUpbJhJjse",
     "access": 0
   }
 ]

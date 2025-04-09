@@ -8,6 +8,7 @@ const helmet = require('helmet');
 const socketIo = require('socket.io');
 const authRoutes = require('./routes/auth');
 const indexRoutes = require('./routes/index');
+const debugRoutes = require('./routes/debug');
 
 dotenv.config();
 
@@ -29,6 +30,7 @@ app.set('views', path.join(__dirname, 'views'));
 
 app.use('/', indexRoutes);
 app.use('/auth', authRoutes);
+app.use('/debug', debugRoutes);
 
 io.on('connection', (socket) => {
   console.log('Socket connecté :', socket.id);
