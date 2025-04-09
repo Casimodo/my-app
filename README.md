@@ -119,8 +119,8 @@ Tu peux maintenant :
 
 - compte invite: ``invite / invite123``
 
-# 💡 Tu peux maintenant aller sur la route ci-dessous si tu veux avoir d'autre mot de passe à changer dans le config :
+- 💡 Tu peux maintenant aller sur la route ci-dessous si tu veux avoir d'autre mot de passe à changer dans le config :
 
-```js
+```
 http://localhost:3000/debug/hash
 ```
